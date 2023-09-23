@@ -2,15 +2,19 @@
 
 # 👋 Greetings random passerby
 
-Hi, my name is Farhad Badalov and I'm a computer geek who like build systems that can be usefull to people. As a child, I read a forecast in the newspaper
+Hi, my name is Farhad Badalov and I'm a computer geek who like build systems that can be usefull to people. As a child, 
 
-that I was destined to sit in a large organization and press a buttons on keyboard, which completely predetermined my entire subsequent life, and although
+I read a forecast in the newspaper that I was destined to sit in a large organization and press a buttons on keyboard, 
 
-I'am a big fan of open source, it so happened that for the last 7 years I have been working for an enterprise and trying to bring latest innovations like 
+which completely predetermined my entire subsequent life, and although I'am a big fan of open source, it so happened 
 
-Infrastructure as Code or DevOps/SRE culture for make them little bit modern. If you are interested in creation of SRE environment with layered automation of 
+that for the last 7 years I have been working for an enterprise and trying to bring latest innovations like 
 
-cloud environment or your custom project then let me know I can share with you a lot of conception from my experience.
+Infrastructure as Code or DevOps/SRE culture for make them little bit modern. If you are interested in creation of SRE 
+
+deployment chain with layered automation of cloud environment or your custom project then let me know I can share
+
+with you a lot of conception from my experience.
 
 ## Books that inspired me
 
