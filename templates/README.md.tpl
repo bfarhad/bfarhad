@@ -1,3 +1,5 @@
+[![Update README](https://github.com/bfarhad/bfarhad/actions/workflows/readme-scribe.yml/badge.svg)](https://github.com/bfarhad/bfarhad/actions/workflows/readme-scribe.yml)
+
 # 👋 Greetings random passerby
 
 Hi, my name is Farhad Badalov and I'm a computer geek who like build systems that can be usefull to people. As a child,
@@ -10,7 +12,7 @@ that for the last 7 years I have been working for an enterprise and trying to br
 
 or  DevOps/SRE culture for make them little bit modern. If you are interested in creation of SRE environment with layered automation of 
 
-cloud environemnt or your custom project then let me know I can share with you a lot of conception from my experience.
+cloud environment or your custom project then let me know I can share with you a lot of conception from my experience.
 
 ## 🔨 Recent Pull Requests
 
@@ -26,4 +28,4 @@ cloud environemnt or your custom project then let me know I can share with you a
 
 ## 📊 Stats
 
-![Farhad Badalov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=schnerring&theme=transparent) ![Michael Schnerring's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bfarhad&layout=compact&theme=transparent)
+![Farhad Badalov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bfarhad&theme=transparent) ![Farhad Badalov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bfarhad&layout=compact&theme=transparent)
