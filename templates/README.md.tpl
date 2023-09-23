@@ -14,6 +14,14 @@ or  DevOps/SRE culture for make them little bit modern. If you are interested in
 
 cloud environment or your custom project then let me know I can share with you a lot of conception from my experience.
 
+## Books that inspired me
+
+![alt text](https://m.media-amazon.com/images/I/91V2fclaQPL._SL1500_.jpg)
+
+![alt text](https://lh3.googleusercontent.com/JvM0JKKuZNJMWAC5iZPm4j-mdS9ORpZbpEWzg0zmJ0i2_xgIcju0OLXJ-zmnvz_GtFFGHe9qZ9Dz-6W0u5fRLFQaRlOI_hGzbetw)
+
+![alt text](https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-8704-0?as=webp)
+
 ## 🔨 Recent Pull Requests
 
 {{range recentPullRequests 10}}
